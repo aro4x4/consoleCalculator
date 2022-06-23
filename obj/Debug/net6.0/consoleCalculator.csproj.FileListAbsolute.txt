@@ -1,0 +1,15 @@
+/home/aro4x4/dotnet/calculator/consoleCalculator/obj/Debug/net6.0/consoleCalculator.csproj.AssemblyReference.cache
+/home/aro4x4/dotnet/calculator/consoleCalculator/obj/Debug/net6.0/consoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/aro4x4/dotnet/calculator/consoleCalculator/obj/Debug/net6.0/consoleCalculator.AssemblyInfoInputs.cache
+/home/aro4x4/dotnet/calculator/consoleCalculator/obj/Debug/net6.0/consoleCalculator.AssemblyInfo.cs
+/home/aro4x4/dotnet/calculator/consoleCalculator/obj/Debug/net6.0/consoleCalculator.csproj.CoreCompileInputs.cache
+/home/aro4x4/dotnet/calculator/consoleCalculator/bin/Debug/net6.0/consoleCalculator
+/home/aro4x4/dotnet/calculator/consoleCalculator/bin/Debug/net6.0/consoleCalculator.deps.json
+/home/aro4x4/dotnet/calculator/consoleCalculator/bin/Debug/net6.0/consoleCalculator.runtimeconfig.json
+/home/aro4x4/dotnet/calculator/consoleCalculator/bin/Debug/net6.0/consoleCalculator.dll
+/home/aro4x4/dotnet/calculator/consoleCalculator/bin/Debug/net6.0/consoleCalculator.pdb
+/home/aro4x4/dotnet/calculator/consoleCalculator/obj/Debug/net6.0/consoleCalculator.dll
+/home/aro4x4/dotnet/calculator/consoleCalculator/obj/Debug/net6.0/refint/consoleCalculator.dll
+/home/aro4x4/dotnet/calculator/consoleCalculator/obj/Debug/net6.0/consoleCalculator.pdb
+/home/aro4x4/dotnet/calculator/consoleCalculator/obj/Debug/net6.0/consoleCalculator.genruntimeconfig.cache
+/home/aro4x4/dotnet/calculator/consoleCalculator/obj/Debug/net6.0/ref/consoleCalculator.dll
